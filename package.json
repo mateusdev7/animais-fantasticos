@@ -1,8 +1,6 @@
 {
-  "name": "animais-fetch",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
@@ -15,7 +13,6 @@
       ]
     }
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.19.1",
